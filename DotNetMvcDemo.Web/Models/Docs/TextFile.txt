@@ -1,0 +1,182 @@
+﻿
+var roles = new List<Role>
+{
+    new Role(1, "Admin"),
+    new Role(2, "Vendor"),
+    new Role(3, "Customer")
+};
+var users = new List<User>
+{
+    User.Create("Hitesh", "Sharma", "hitesh@example.com", "9876543210"),
+    User.Create("Priya", "Verma", "priya@example.com", "9123456780"),
+    User.Create("Rahul", "Kumar", "rahul@example.com", "9988776655")
+};
+
+// Assign roles
+var userRoles = new List<UserRole>
+{
+    new UserRole(users[0].UserId, 2), // Vendor
+    new UserRole(users[1].UserId, 2), // Vendor
+    new UserRole(users[2].UserId, 3), // Customer
+};
+
+var vendor1Contact = new VendorContact(
+    "royalevents@example.com",
+    "9876501234",
+    "9876501234",
+    "Hitesh Sharma"
+);
+
+var vendor1Address = new Address(
+    "India",
+    "Delhi",
+    "New Delhi",
+    "Connaught Place",
+    28.6328,
+    77.2197
+);
+
+var vendors = new List<Vendor>
+{
+    Vendor.Create("Royal Events Pvt Ltd", VendorType.Vendor, vendor1Contact)
+};
+
+vendors[0].RegisteredAddress = vendor1Address;
+vendors[0].AddUser(users[0].UserId, VendorUserRole.Owner);
+
+
+var vendor1Contact = new VendorContact(
+    "royalevents@example.com",
+    "9876501234",
+    "9876501234",
+    "Hitesh Sharma"
+);
+
+var vendor1Address = new Address(
+    "India",
+    "Delhi",
+    "New Delhi",
+    "Connaught Place",
+    28.6328,
+    77.2197
+);
+
+var vendors = new List<Vendor>
+{
+    Vendor.Create("Royal Events Pvt Ltd", VendorType.Vendor, vendor1Contact)
+};
+
+vendors[0].RegisteredAddress = vendor1Address;
+vendors[0].AddUser(users[0].UserId, VendorUserRole.Owner);
+
+
+var venue1Address = new Address(
+    "India", "Delhi", "New Delhi", "Karol Bagh", 28.6371, 77.2197
+);
+
+var venue1Pricing = new PerPlatePricing(1500m, 50, 300);
+
+var venues = new List<Venue>
+{
+    Venue.Create(
+        vendors[0].VendorId,
+        "Royal Palace Banquet",
+        venue1Address,
+        VenueType.Banquet,
+        50,
+        300,
+        venue1Pricing
+    )
+};
+
+var service1Address = new Address(
+    "India", "Delhi", "New Delhi", "Karol Bagh", 28.6371, 77.2197
+);
+
+var service1Pricing = new PerEventPricing(50000m);
+
+var services = new List<Service>
+{
+    Service.Create(
+        vendors[0].VendorId,
+        "Royal Wedding Decorators",
+        service1Address,
+        ServiceType.Decorator,
+        service1Pricing
+    )
+};
+venues[0].AddAmenity(VenueAmenityType.AirConditioning);
+venues[0].AddAmenity(VenueAmenityType.Parking);
+venues[0].AddAmenity(VenueAmenityType.PowerBackup);
+venues[0].AddImage("https://example.com/images/venue1_exterior.jpg", VenueImageType.Exterior, true, 1);
+venues[0].AddImage("https://example.com/images/venue1_interior.jpg", VenueImageType.Interior, false, 2);
+var trustProfiles = new List<TrustProfile>
+{
+    new TrustProfile(4.8, 120, 118, TimeSpan.FromHours(2))
+};
+vendors[0].TrustProfile = trustProfiles[0];
+public class VendoVenueDbContext : DbContext
+{
+    public DbSet<User> Users { get; set; }
+    public DbSet<Role> Roles { get; set; }
+    public DbSet<UserRole> UserRoles { get; set; }
+
+    public DbSet<Vendor> Vendors { get; set; }
+    public DbSet<VendorUser> VendorUsers { get; set; }
+    public DbSet<VendorContact> VendorContacts { get; set; }
+    public DbSet<Address> Addresses { get; set; }
+
+    public DbSet<VendorOffering> VendorOfferings { get; set; }
+    public DbSet<Venue> Venues { get; set; }
+    public DbSet<Service> Services { get; set; }
+    public DbSet<VenueAmenity> VenueAmenities { get; set; }
+    public DbSet<VenueImage> VenueImages { get; set; }
+    public DbSet<Pricing> Pricing { get; set; }
+    public DbSet<TrustProfile> TrustProfiles { get; set; }
+
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        base.OnModelCreating(modelBuilder);
+
+        // Seed Roles
+        modelBuilder.Entity<Role>().HasData(roles);
+
+        // Seed Users
+        foreach (var user in users)
+            modelBuilder.Entity<User>().HasData(user);
+
+        // Seed UserRoles
+        foreach (var ur in userRoles)
+            modelBuilder.Entity<UserRole>().HasData(ur);
+
+        // Seed Vendors
+        foreach (var v in vendors)
+            modelBuilder.Entity<Vendor>().HasData(v);
+
+        // Seed VendorContacts
+        foreach (var c in new[] { vendor1Contact })
+            modelBuilder.Entity<VendorContact>().HasData(c);
+
+        // Seed Addresses
+        foreach (var a in new[] { vendor1Address, venue1Address, service1Address })
+            modelBuilder.Entity<Address>().HasData(a);
+
+        // Seed Offerings
+        foreach (var o in venues.Cast<VendorOffering>().Concat(services))
+            modelBuilder.Entity<VendorOffering>().HasData(o);
+
+        // Seed Amenities & Images
+        foreach (var a in venues[0].Amenities)
+            modelBuilder.Entity<VenueAmenity>().HasData(a);
+
+        foreach (var i in venues[0].Images)
+            modelBuilder.Entity<VenueImage>().HasData(i);
+
+        // Seed Pricing
+        modelBuilder.Entity<Pricing>().HasData(venue1Pricing, service1Pricing);
+
+        // Seed TrustProfiles
+        modelBuilder.Entity<TrustProfile>().HasData(trustProfiles[0]);
+    }
+}
+

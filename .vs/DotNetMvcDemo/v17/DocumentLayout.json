@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\DotNetMvcDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|d:\\dotnet\\dotnetmvcdemo\\dotnetmvcdemo.web\\models\\docs\\textfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|solutionrelative:dotnetmvcdemo.web\\models\\docs\\textfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|d:\\dotnet\\dotnetmvcdemo\\dotnetmvcdemo.web\\models\\vendoruserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|solutionrelative:dotnetmvcdemo.web\\models\\vendoruserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|d:\\dotnet\\dotnetmvcdemo\\dotnetmvcdemo.web\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|solutionrelative:dotnetmvcdemo.web\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|d:\\dotnet\\dotnetmvcdemo\\dotnetmvcdemo.web\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|solutionrelative:dotnetmvcdemo.web\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|d:\\dotnet\\dotnetmvcdemo\\dotnetmvcdemo.web\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|solutionrelative:dotnetmvcdemo.web\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|d:\\dotnet\\dotnetmvcdemo\\dotnetmvcdemo.web\\models\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|solutionrelative:dotnetmvcdemo.web\\models\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|d:\\dotnet\\dotnetmvcdemo\\dotnetmvcdemo.web\\views\\vendor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|solutionrelative:dotnetmvcdemo.web\\views\\vendor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|d:\\dotnet\\dotnetmvcdemo\\dotnetmvcdemo.web\\controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|solutionrelative:dotnetmvcdemo.web\\controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|d:\\dotnet\\dotnetmvcdemo\\dotnetmvcdemo.web\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|solutionrelative:dotnetmvcdemo.web\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|d:\\dotnet\\dotnetmvcdemo\\dotnetmvcdemo.web\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|solutionrelative:dotnetmvcdemo.web\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|d:\\dotnet\\dotnetmvcdemo\\dotnetmvcdemo.web\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|solutionrelative:dotnetmvcdemo.web\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|d:\\dotnet\\dotnetmvcdemo\\dotnetmvcdemo.web\\models\\vendoroffering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|solutionrelative:dotnetmvcdemo.web\\models\\vendoroffering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|d:\\dotnet\\dotnetmvcdemo\\dotnetmvcdemo.web\\models\\pereventpricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|solutionrelative:dotnetmvcdemo.web\\models\\pereventpricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|d:\\dotnet\\dotnetmvcdemo\\dotnetmvcdemo.web\\models\\perplatepricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|solutionrelative:dotnetmvcdemo.web\\models\\perplatepricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|d:\\dotnet\\dotnetmvcdemo\\dotnetmvcdemo.web\\models\\trustedprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|solutionrelative:dotnetmvcdemo.web\\models\\trustedprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|d:\\dotnet\\dotnetmvcdemo\\dotnetmvcdemo.web\\models\\vendorcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|solutionrelative:dotnetmvcdemo.web\\models\\vendorcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|d:\\dotnet\\dotnetmvcdemo\\dotnetmvcdemo.web\\models\\vendorbranding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|solutionrelative:dotnetmvcdemo.web\\models\\vendorbranding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|d:\\dotnet\\dotnetmvcdemo\\dotnetmvcdemo.web\\models\\venuetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|solutionrelative:dotnetmvcdemo.web\\models\\venuetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|d:\\dotnet\\dotnetmvcdemo\\dotnetmvcdemo.web\\models\\vendorbusinessinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D58BB-73FB-486C-AEF4-DBE82C1221B7}|DotNetMvcDemo.Web\\DotNetMvcDemo.Web.csproj|solutionrelative:dotnetmvcdemo.web\\models\\vendorbusinessinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextFile.txt",
+              "DocumentMoniker": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\Docs\\TextFile.txt",
+              "RelativeDocumentMoniker": "DotNetMvcDemo.Web\\Models\\Docs\\TextFile.txt",
+              "ToolTip": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\Docs\\TextFile.txt",
+              "RelativeToolTip": "DotNetMvcDemo.Web\\Models\\Docs\\TextFile.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-16T15:06:18.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "DotNetMvcDemo.Web\\Models\\UserRole.cs",
+              "ToolTip": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\UserRole.cs",
+              "RelativeToolTip": "DotNetMvcDemo.Web\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:01:24.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "DotNetMvcDemo.Web\\Models\\Role.cs",
+              "ToolTip": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\Role.cs",
+              "RelativeToolTip": "DotNetMvcDemo.Web\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:00:56.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "DotNetMvcDemo.Web\\Models\\UserModel.cs",
+              "ToolTip": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\UserModel.cs",
+              "RelativeToolTip": "DotNetMvcDemo.Web\\Models\\UserModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:00:10.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserStatus.cs",
+              "DocumentMoniker": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\UserStatus.cs",
+              "RelativeDocumentMoniker": "DotNetMvcDemo.Web\\Models\\UserStatus.cs",
+              "ToolTip": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\UserStatus.cs",
+              "RelativeToolTip": "DotNetMvcDemo.Web\\Models\\UserStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:59:54.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Views\\Vendor\\Index.cshtml",
+              "RelativeDocumentMoniker": "DotNetMvcDemo.Web\\Views\\Vendor\\Index.cshtml",
+              "ToolTip": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Views\\Vendor\\Index.cshtml",
+              "RelativeToolTip": "DotNetMvcDemo.Web\\Views\\Vendor\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T14:58:57.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VendorUserRole.cs",
+              "DocumentMoniker": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\VendorUserRole.cs",
+              "RelativeDocumentMoniker": "DotNetMvcDemo.Web\\Models\\VendorUserRole.cs",
+              "ToolTip": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\VendorUserRole.cs",
+              "RelativeToolTip": "DotNetMvcDemo.Web\\Models\\VendorUserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:41:10.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PerEventPricing.cs",
+              "DocumentMoniker": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\PerEventPricing.cs",
+              "RelativeDocumentMoniker": "DotNetMvcDemo.Web\\Models\\PerEventPricing.cs",
+              "ToolTip": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\PerEventPricing.cs",
+              "RelativeToolTip": "DotNetMvcDemo.Web\\Models\\PerEventPricing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:45:33.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VendorOffering.cs",
+              "DocumentMoniker": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\VendorOffering.cs",
+              "RelativeDocumentMoniker": "DotNetMvcDemo.Web\\Models\\VendorOffering.cs",
+              "ToolTip": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\VendorOffering.cs",
+              "RelativeToolTip": "DotNetMvcDemo.Web\\Models\\VendorOffering.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:24:55.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "DotNetMvcDemo.Web\\Models\\Venue.cs",
+              "ToolTip": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\Venue.cs",
+              "RelativeToolTip": "DotNetMvcDemo.Web\\Models\\Venue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:27:26.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "DotNetMvcDemo.Web\\Models\\Service.cs",
+              "ToolTip": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\Service.cs",
+              "RelativeToolTip": "DotNetMvcDemo.Web\\Models\\Service.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:29:19.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\Vendor.cs",
+              "RelativeDocumentMoniker": "DotNetMvcDemo.Web\\Models\\Vendor.cs",
+              "ToolTip": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\Vendor.cs",
+              "RelativeToolTip": "DotNetMvcDemo.Web\\Models\\Vendor.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:24:08.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VendorController.cs",
+              "DocumentMoniker": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Controllers\\VendorController.cs",
+              "RelativeDocumentMoniker": "DotNetMvcDemo.Web\\Controllers\\VendorController.cs",
+              "ToolTip": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Controllers\\VendorController.cs",
+              "RelativeToolTip": "DotNetMvcDemo.Web\\Controllers\\VendorController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:17:45.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PerPlatePricing.cs",
+              "DocumentMoniker": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\PerPlatePricing.cs",
+              "RelativeDocumentMoniker": "DotNetMvcDemo.Web\\Models\\PerPlatePricing.cs",
+              "ToolTip": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\PerPlatePricing.cs",
+              "RelativeToolTip": "DotNetMvcDemo.Web\\Models\\PerPlatePricing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:45:04.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TrustedProfile.cs",
+              "DocumentMoniker": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\TrustedProfile.cs",
+              "RelativeDocumentMoniker": "DotNetMvcDemo.Web\\Models\\TrustedProfile.cs",
+              "ToolTip": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\TrustedProfile.cs",
+              "RelativeToolTip": "DotNetMvcDemo.Web\\Models\\TrustedProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:42:03.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VendorContact.cs",
+              "DocumentMoniker": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\VendorContact.cs",
+              "RelativeDocumentMoniker": "DotNetMvcDemo.Web\\Models\\VendorContact.cs",
+              "ToolTip": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\VendorContact.cs",
+              "RelativeToolTip": "DotNetMvcDemo.Web\\Models\\VendorContact.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:32:14.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VenueType.cs",
+              "DocumentMoniker": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\VenueType.cs",
+              "RelativeDocumentMoniker": "DotNetMvcDemo.Web\\Models\\VenueType.cs",
+              "ToolTip": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\VenueType.cs",
+              "RelativeToolTip": "DotNetMvcDemo.Web\\Models\\VenueType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:26:39.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VendorBranding.cs",
+              "DocumentMoniker": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\VendorBranding.cs",
+              "RelativeDocumentMoniker": "DotNetMvcDemo.Web\\Models\\VendorBranding.cs",
+              "ToolTip": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\VendorBranding.cs",
+              "RelativeToolTip": "DotNetMvcDemo.Web\\Models\\VendorBranding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:23:33.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VendorBusinessInfo.cs",
+              "DocumentMoniker": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\VendorBusinessInfo.cs",
+              "RelativeDocumentMoniker": "DotNetMvcDemo.Web\\Models\\VendorBusinessInfo.cs",
+              "ToolTip": "D:\\dotnet\\DotNetMvcDemo\\DotNetMvcDemo.Web\\Models\\VendorBusinessInfo.cs",
+              "RelativeToolTip": "DotNetMvcDemo.Web\\Models\\VendorBusinessInfo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:22:35.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
